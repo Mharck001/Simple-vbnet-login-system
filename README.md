@@ -14,3 +14,4 @@ Simple VB.NET login system with MySQL database
 Mark Guado
 
 Currently rebuilding and improving my programming skills through hands-on VB.NET and MySQL projects. :) 
+sample login codes : https://github.com/Mharck001/Simple-vbnet-login-system/blob/main/vb.netcodes.png
