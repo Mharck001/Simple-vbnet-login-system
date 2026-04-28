@@ -12,3 +12,5 @@ Simple VB.NET login system with MySQL database
 
 ## Author
 Mark Guado
+
+Currently rebuilding and improving my programming skills through hands-on VB.NET and MySQL projects. :) 
